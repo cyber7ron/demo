@@ -1,0 +1,2 @@
+You just completed the stage 2. you one step closer to mjolnir. 
+ Flag{2ef3615d33505bd5e26eead554d225a7}
