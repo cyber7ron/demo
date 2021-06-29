@@ -1,5 +1,0 @@
-Congratulation on solving stage 3. Odinson fight for mjolnir now. To become thor again.
-
-Flag{81bdfa5dadad7385282e90188ee30365}
-
-
